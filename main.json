@@ -56,7 +56,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/menschmeier.berlin\/"
+                 "value":"https:\/\/lettercoder.github.io\/"
                 }],
          "type":"tilelayer",
          "visible":true,
